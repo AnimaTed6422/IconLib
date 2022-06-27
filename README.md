@@ -3,8 +3,5 @@
 Some Icons I designed
 </h3>
 <p align="center">
-Use:
-
-No Legal Action will be persued. You can use these icons freely
-
+Use:<br>No Legal Action will be persued. You can use these icons freely
 </p>
